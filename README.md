@@ -10,4 +10,10 @@ If someone wants to use google colab, this is a good resource to help setup envi
 
 https://stackoverflow.com/questions/49310470/using-kaggle-datasets-into-google-colab
 
+### Dataset
+
+Shared on OneDrive:
+
+https://1drv.ms/u/s!ArRiPeyUqwzClGvKexhF5iZoUZDT
+
 ### Create own branch
